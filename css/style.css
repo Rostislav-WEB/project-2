@@ -115,6 +115,7 @@ img {
 }
 .nav-menu-link {
 	color: rgba(255, 255, 255, 0.5);
+	text-transform: uppercase;
 }
 .nav-menu-link:hover {
 	color: rgb(133, 32, 32);
@@ -283,6 +284,9 @@ img {
 	.venom {
 		top: 20%;
 		width: 30%;
+	}
+	.button-primary {
+		margin-bottom: 3%;
 	}
 	.nav-menu {
 		position: fixed;
